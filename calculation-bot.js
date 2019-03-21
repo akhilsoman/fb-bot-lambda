@@ -1,7 +1,7 @@
 'use strict';
-var VERIFY_TOKEN = "alohomora@@";
+var VERIFY_TOKEN = "";
 var https = require('https');
-var PAGE_ACCESS_TOKEN = "EAAFwkOBynwoBAAahhJZCDnSeD25QNV8XxjvQt6ZCSahmNWn6PC62VeCEtFAKwMC9xhSWB9eqB0ddTTVXc0beSysuH7bqIxDW2zaeXiJDN1x3OgDF1w8Dz3Fqvucb5ZAN4baZA3b2l5jPmQHI3YAVdiLi90KJn4HAiEMtfjIukAZDZD";
+var PAGE_ACCESS_TOKEN = "";
 const pi = 3.14159265358979;
 const fixed = 2;
 const loadPinError = `For Loadpin enter data as below format:
